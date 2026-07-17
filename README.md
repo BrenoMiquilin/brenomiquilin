@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Breno Miquilin
+# 👋 Hello, I'm Breno Miquilin Gomes
 
 🎓 Computer Engineering Student at FESA  
 💼 IT Intern working with Linux Administration, IT Operations & Automation  
@@ -92,4 +92,5 @@ Python script using Outlook COM integration to automate email responses based on
 ## 📫 Contact
 
 📧 Email: miquilingomes@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/breno-miquilin-gomes-08439322b/  
 📍 São Paulo - Brazil  
