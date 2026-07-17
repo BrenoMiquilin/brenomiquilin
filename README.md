@@ -64,18 +64,18 @@ This experience helped me build a strong foundation in IT operations, which I no
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects   
 
-🔹 **Change Management Automation**  
+🔹 **Change Management Automation**  (https://github.com/BrenoMiquilin/change-management-automation)
 Automation of change workflows with dynamic notifications via email and Microsoft Teams, improving visibility and reducing manual follow-ups.
 
-🔹 **Email to Planner Automation**  
+🔹 **Email to Planner Automation**  (https://github.com/BrenoMiquilin/email-to-planner-automation)
 Integration that automatically creates tasks in Microsoft Planner based on Service Desk emails, optimizing task management.
 
-🔹 **Change Monitoring Automation**  
+🔹 **Change Monitoring Automation**  (https://github.com/BrenoMiquilin/change-email-monitoring)
 Automation that monitors change status via email and sends real-time alerts to responsible teams.
 
-🔹 **Outlook Automation with Python**  
+🔹 **Outlook Automation with Python** (https://github.com/BrenoMiquilin/outlook-change-automation) 
 Python script using Outlook COM integration to automate email responses based on Planner data.
 
 ---
